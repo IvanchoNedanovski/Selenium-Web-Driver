@@ -1,0 +1,234 @@
+11:33:45.796 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:33:45.808 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:33:45.808 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:34:10.485 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mp65k3taqxpkwcbhhibdphsi9nq95k3cgaa4scwn to view build report, insights, and many more debugging information all at one place!
+
+11:34:10.587 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:34:10.587 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:39:36.910 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:39:36.917 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:39:36.917 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:39:54.175 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/hbw3prvrcu0zpwdezevtsakpyn2yhvrhmfzvkxyg to view build report, insights, and many more debugging information all at one place!
+
+11:39:54.342 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:39:54.342 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:44:47.104 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:44:47.112 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:44:47.113 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:45:02.339 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ch5qeufupazbiuyb2kovxk4jhqn0qlbcb4yeyarq to view build report, insights, and many more debugging information all at one place!
+
+11:45:02.434 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:45:02.434 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:56:21.491 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:56:21.501 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:56:21.502 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:56:41.436 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fibnplriapabpgbr3ssjb91n5gbitnuxcjpg8s5b to view build report, insights, and many more debugging information all at one place!
+
+11:56:41.591 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:56:41.591 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:10:32.627 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:10:32.635 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:10:32.636 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:10:48.655 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/q1t4kaot6jcdop1xzsgdggprpwjvfqltgnktifhc to view build report, insights, and many more debugging information all at one place!
+
+12:10:48.767 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:10:48.767 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:18:53.054 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:18:53.066 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:18:53.066 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:19:06.692 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ifta6dq7hxz3mr90cvv9x3jkeacqgv6y7adw6ub8 to view build report, insights, and many more debugging information all at one place!
+
+12:19:06.884 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:19:06.884 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:20:10.865 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:20:10.876 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:20:10.877 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:20:27.879 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/bo1a1jl3cqkc8ajstngkxws94jou0cwiluxkt22y to view build report, insights, and many more debugging information all at one place!
+
+12:20:28.066 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:20:28.066 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:22:44.992 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:22:45.004 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:22:45.004 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:22:58.073 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/2s6xo3q65ytwwxckhwbiurpabmikfcau4wn7k32y to view build report, insights, and many more debugging information all at one place!
+
+12:22:58.187 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:22:58.187 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:27:02.711 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:27:02.725 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:27:02.725 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:27:26.865 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/z3ya30eajg1z4fxheafbfp14aomrcsbug0kqrgof to view build report, insights, and many more debugging information all at one place!
+
+12:27:26.986 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:27:26.986 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:24:39.259 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:24:39.269 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:24:39.269 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:24:54.297 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/mwk2nfg5mqj20ryd1bozkprucp3opwe5mq1k0pna to view build report, insights, and many more debugging information all at one place!
+
+10:24:58.398 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+10:24:58.470 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:24:58.470 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:29:19.038 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:29:19.045 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:29:19.046 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:29:32.287 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/5cumpplo4h2df1dyoxrgran0ozvd59mn07ylpuif to view build report, insights, and many more debugging information all at one place!
+
+10:29:38.190 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+10:29:38.263 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:29:38.264 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:32:23.454 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:32:23.462 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:32:23.463 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:32:39.919 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/j2xr9y8bczctbx8ho6v8frm5px7npvyajenboocs to view build report, insights, and many more debugging information all at one place!
+
+10:32:43.642 [main] INFO  c.b.config.BrowserStackConfig - ERROR
+10:32:43.716 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:32:43.717 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:42:24.617 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:42:24.632 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:42:24.632 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:42:40.151 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ca8r6f4uhpjbcsvmvdljwyhaxzwabufeojrjrfch to view build report, insights, and many more debugging information all at one place!
+
+10:42:42.895 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:42:42.896 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:43:34.060 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:43:34.069 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:43:34.070 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:44:16.048 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/x8ildo7adj6odf0mqvnsfhslt9zojx6b7jeq9pqq to view build report, insights, and many more debugging information all at one place!
+
+10:44:16.180 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:44:16.181 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:46:01.463 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:46:01.471 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:46:01.471 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:46:14.118 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/ruyuibu4vknzessyfoiopcdvdm1vs14xsbgs5kls to view build report, insights, and many more debugging information all at one place!
+
+10:46:14.267 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:46:14.267 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:51:22.541 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:51:22.551 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:51:22.551 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:51:34.330 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wuk8gjcvhbujtmrjw3n3cw3jb5eglutch6jxeucw to view build report, insights, and many more debugging information all at one place!
+
+10:51:34.423 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:51:34.424 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:58:54.643 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:58:54.652 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:58:54.652 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+10:59:10.326 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/8ai4oegxzchnkvvzajpqohs9yqwm9ocykj2dschs to view build report, insights, and many more debugging information all at one place!
+
+10:59:10.459 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+10:59:10.460 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+10:59:51.479 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+10:59:51.487 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+10:59:51.487 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:00:44.034 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/pc3v4dm3yp3zzh1bz1osrypkas1m4tjrq0utmgjb to view build report, insights, and many more debugging information all at one place!
+
+11:00:44.157 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:00:44.157 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:02:08.829 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:02:08.839 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:02:08.839 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:02:14.136 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/axpj1ahac1r0ufhyg3zxs1ynhdrl3nguzumwpflv to view build report, insights, and many more debugging information all at one place!
+
+11:02:14.253 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:02:14.254 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:02:48.999 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:02:49.011 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:02:49.011 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:02:55.098 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/aelvgai3irlaszkl8y6heki54ytoy7zgedkpm2ky to view build report, insights, and many more debugging information all at one place!
+
+11:02:55.254 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:02:55.254 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:03:23.569 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:03:23.578 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:03:23.578 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:03:28.686 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lm7nggmzkbp2akdca6xzk6fmbbuombpc4kel56nq to view build report, insights, and many more debugging information all at one place!
+
+11:03:28.818 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:03:28.818 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:06:59.077 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:06:59.087 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:06:59.087 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:07:04.737 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/h8c9iyyajqhbufondcfstlkqwykesow836i2fkka to view build report, insights, and many more debugging information all at one place!
+
+11:07:04.862 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:07:04.863 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:24:11.244 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:24:11.253 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:24:11.253 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:24:16.649 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wnqqxmtcwguaznz3bqeyy1oyl1k9rvpxbz1l70er to view build report, insights, and many more debugging information all at one place!
+
+11:24:16.769 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:24:16.770 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:52:49.943 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:52:49.951 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:52:49.951 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:52:55.377 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/c4k0uraognwj1g4u72wvxh9cktrjhyeuqjrkkcec to view build report, insights, and many more debugging information all at one place!
+
+11:52:55.501 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:52:55.501 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+11:55:43.267 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+11:55:43.276 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+11:55:43.276 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+11:55:48.613 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/wquda9hu1enqhygqrrr29emdkkgbxuhk1fvmohjo to view build report, insights, and many more debugging information all at one place!
+
+11:55:48.721 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+11:55:48.721 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:07:00.732 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:07:00.739 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:07:00.739 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:07:06.575 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/lxjc43dpmpsdxtjh6iirykmbbnimfirtl1h2nwlj to view build report, insights, and many more debugging information all at one place!
+
+12:07:06.682 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:07:06.682 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:08:01.169 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:08:01.178 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:08:01.179 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:08:06.399 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/evknafurdsfwegogxcswu8cc79ioxewnnpv5ubyp to view build report, insights, and many more debugging information all at one place!
+
+12:08:06.541 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:08:06.542 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:09:49.046 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:09:49.053 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:09:49.053 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:09:54.478 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zk8epsqrmm7e2bj1bb6apkogdtn71u5d50vbaddz to view build report, insights, and many more debugging information all at one place!
+
+12:09:54.605 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:09:54.606 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:11:54.543 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:11:54.553 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:11:54.553 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:12:00.460 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/znn7unzmaxhfposqiekrimbiwcpg3v1bfasavuis to view build report, insights, and many more debugging information all at one place!
+
+12:12:00.572 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:12:00.572 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+12:59:13.393 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+12:59:13.402 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+12:59:13.403 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+12:59:18.127 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/fnafwrzk7u1hor4hakfozc2rlqsvw1cwuf4shni1 to view build report, insights, and many more debugging information all at one place!
+
+12:59:18.243 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+12:59:18.243 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+13:05:43.855 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:05:43.865 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+13:05:43.904 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:05:43.904 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:05:43.914 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: java.io.IOException: Cannot run program "C:\Users\ivanc/.browserstack/BrowserStackLocal.exe": CreateProcess error=193, %1 is not a valid Win32 application.
+13:05:48.852 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/t3pudy1i9lzev7q5cclhfqwxzl7iwdotli56skyi to view build report, insights, and many more debugging information all at one place!
+
+13:07:52.681 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:07:52.690 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+13:07:52.728 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:07:52.728 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:07:52.732 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: java.io.IOException: Cannot run program "C:\Users\ivanc/.browserstack/BrowserStackLocal.exe": CreateProcess error=193, %1 is not a valid Win32 application.
+13:07:57.646 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/b3f3p5vshw0vf5c8n4jk400ylwiefkls5mwgvn7r to view build report, insights, and many more debugging information all at one place!
+
+13:08:58.395 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+13:08:58.402 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+13:08:58.447 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+13:08:58.447 [main] INFO  c.browserstack.BrowserStackJavaAgent - Starting BrowserStack Local......
+13:08:58.456 [main] ERROR com.browserstack.LocalFactory - Initialization of BrowserStack Local failed com.browserstack.local.LocalException: java.io.IOException: Cannot run program "C:\Users\ivanc/.browserstack/BrowserStackLocal.exe": CreateProcess error=193, %1 is not a valid Win32 application.
+13:09:03.040 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/oevnjcbxuqt0m9h84u0kwnhlpccczmxhsugodjqp to view build report, insights, and many more debugging information all at one place!
+

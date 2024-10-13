@@ -1,0 +1,43 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 2.362 s <<< FAILURE! - in TestSuite
+rahulshettyacademy.TestDemo2.ttileCheckGoogle  Time elapsed: 1.591 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-SKDRLNI', ip: '192.168.0.28'
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+Caused by: org.openqa.selenium.WebDriverException: 
+Automate testing time expired.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: RemoteWebDriver
+remote stacktrace: 
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+
+rahulshettyacademy.TestDemo2.ttileCheckGoogle  Time elapsed: 1.591 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-SKDRLNI', ip: '192.168.0.28'
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+Caused by: org.openqa.selenium.WebDriverException: 
+The property '#/firstMatch/0/bstack:options' contains additional properties ["parallelsPerPlatform"] outside of the schema when none are allowed in the payload.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: RemoteWebDriver
+remote stacktrace: 
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+
+rahulshettyacademy.TestDemo2.ttileCheckGoogle  Time elapsed: 1.591 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Possible causes are invalid address of the remote server or browser start-up failure. 
+Host info: host: 'DESKTOP-SKDRLNI', ip: '192.168.0.28'
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+Caused by: org.openqa.selenium.WebDriverException: 
+Automate testing time expired.
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.1'
+Driver info: driver.version: RemoteWebDriver
+remote stacktrace: 
+	at rahulshettyacademy.TestDemo2.ttileCheckGoogle(TestDemo2.java:19)
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-14T12:42:45 CET" name="Default suite" finished-at="2023-03-14T12:42:51 CET" duration-ms="6136">
+    <groups>
+    </groups>
+    <test started-at="2023-03-14T12:42:45 CET" name="Default test" finished-at="2023-03-14T12:42:51 CET" duration-ms="6136">
+      <class name="rahulshettyacademy.ExtentReports.ExtentReportDemo">
+        <test-method is-config="true" signature="config()[pri:0, instance:rahulshettyacademy.ExtentReports.ExtentReportDemo@5e600dd5]" started-at="2023-03-14T12:42:45 CET" name="config" finished-at="2023-03-14T12:42:45 CET" duration-ms="179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initaialDemo()[pri:0, instance:rahulshettyacademy.ExtentReports.ExtentReportDemo@5e600dd5]" started-at="2023-03-14T12:42:45 CET" name="initaialDemo" finished-at="2023-03-14T12:42:51 CET" duration-ms="5926" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initaialDemo -->
+      </class> <!-- rahulshettyacademy.ExtentReports.ExtentReportDemo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,46 @@
+package qacilckaacademy;
+
+import org.testng.annotations.Test;
+
+public class SeleniumTest {
+	@Test
+
+	public void BrowserAutomation() {
+
+		System.out.println("BrowserAutomation");
+		System.out.println("WebAutomation");
+
+	}
+
+	@Test
+
+	public void elementsUI() {
+
+		System.out.println("elementsUI");
+
+	}
+
+
+	@Test
+
+	public void elementsUI1() {
+
+		System.out.println("elementsUI1");
+
+	}
+
+<<<<<<< HEAD
+=======
+	@Test
+
+	public void elementsUI2() {
+
+		System.out.println("elementsUI2");
+
+
+		
+	}
+
+>>>>>>> da63be5b3ba0b723e1498d2dd4442ad01166f04c
+
+}

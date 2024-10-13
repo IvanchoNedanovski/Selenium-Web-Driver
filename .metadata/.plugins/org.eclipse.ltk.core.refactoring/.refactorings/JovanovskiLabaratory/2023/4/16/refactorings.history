@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;rahulshettyacademy.JovanovskiLabaratory.rahul&apos; to &apos;Example_Basic_code&apos;&#x0D;&#x0A;- Original project: &apos;JovanovskiLabaratory&apos;&#x0D;&#x0A;- Original element: &apos;rahulshettyacademy.JovanovskiLabaratory.rahul&apos;&#x0D;&#x0A;- Renamed element: &apos;rahulshettyacademy.JovanovskiLabaratory.Example_Basic_code&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;rahul&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;rahulshettyacademy.JovanovskiLabaratory{rahul.java[rahul" matchStrategy="1" name="Example_Basic_code" qualified="false" references="true" similarDeclarations="false" stamp="1681756787826" textual="false" version="1.0"/>
+</session>

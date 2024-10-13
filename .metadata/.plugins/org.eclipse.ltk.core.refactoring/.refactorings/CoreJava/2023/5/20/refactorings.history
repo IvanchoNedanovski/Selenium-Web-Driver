@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;coreJava.parentClassDemo&apos; to &apos;ParentClassDemo&apos;&#x0D;&#x0A;- Original project: &apos;CoreJava&apos;&#x0D;&#x0A;- Original element: &apos;coreJava.parentClassDemo&apos;&#x0D;&#x0A;- Renamed element: &apos;coreJava.ParentClassDemo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;parentClassDemo&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;coreJava{parentClassDemo.java[parentClassDemo" matchStrategy="1" name="ParentClassDemo" qualified="false" references="true" similarDeclarations="false" stamp="1684349917240" textual="false" version="1.0"/>
+</session>

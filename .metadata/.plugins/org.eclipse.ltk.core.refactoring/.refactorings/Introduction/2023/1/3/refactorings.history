@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Section11.Scope_example_other&apos; to &apos;Calendar_example_other&apos;&#x0D;&#x0A;- Original project: &apos;Introduction&apos;&#x0D;&#x0A;- Original element: &apos;Section11.Scope_example_other&apos;&#x0D;&#x0A;- Renamed element: &apos;Section11.Calendar_example_other&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Scope_example_other&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src=/optional=/true=/=/maven.pomderived=/true=/&lt;Section11{Scope_example_other.java[Scope_example_other" matchStrategy="1" name="Calendar_example_other" qualified="false" references="true" similarDeclarations="false" stamp="1673951767630" textual="false" version="1.0"/>
+</session>
